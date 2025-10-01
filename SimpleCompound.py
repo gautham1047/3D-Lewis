@@ -348,7 +348,7 @@ class SimpleCompound(Compound):
         plt.show()
 
 
-cmpd = SimpleCompound("PF5")
+cmpd = SimpleCompound("H2O")
 
 LewisStructure = cmpd.generateLewisStructure()
 

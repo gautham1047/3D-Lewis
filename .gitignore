@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Project-specific generated files
+sdf_single_center/
+*.xyz
+*.cif
+*.txt
